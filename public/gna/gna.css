@@ -1,0 +1,54 @@
+.fs-7 {
+    font-size: 14px;
+}
+.fs-8 {
+    font-size: 12px;
+}
+.pointer input, label {
+    cursor: pointer;
+}
+.login {
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.gna-title {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+.login hr, label {
+    color: black;
+    font-weight: bolder;
+}
+
+.login hr {
+    border: 1px solid black;
+}
+.form-error {
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+    padding: 4px 8px;
+    background-color: rgba(189, 52, 64, 0.1);
+    border-radius: 10px;
+}
+.login span, .form-error span {
+    color: red;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.is-invalid {
+    border-width: 2px;
+}
+
+.dt-on-hover:hover {
+    cursor: pointer;
+    background-color:beige;
+}
+
